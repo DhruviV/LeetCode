@@ -1,0 +1,2 @@
+A="abcd"
+B="cdabcdab"
